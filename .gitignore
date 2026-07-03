@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+*.sarif
+sbom.json
+target/
+__pycache__/
